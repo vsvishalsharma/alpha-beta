@@ -63,14 +63,14 @@ export const Header = () => {
         </div>
         <div style={styles.navLinks}>
           <a 
-            href="#" 
+            href="https://github.com/vsvishalsharma/alpha-beta" 
             style={styles.link}
           >
             <Github style={styles.linkIcon} />
             GitHub
           </a>
           <a 
-            href="#" 
+            href="https://github.com/vsvishalsharma/alpha-beta" 
             style={styles.link}
           >
             <BookOpen style={styles.linkIcon} />
