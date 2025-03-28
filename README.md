@@ -1,7 +1,7 @@
 <h1 align="center"> 📝 The SQL-Editor Platform </h1> 
 <p align="center"> Crafted with <span style="color: #8b0000;">♥</span> by Vishal Sharma </p> <h2 align="center">Built using: </h2> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> </p>
 View Demo on the Deployed Site 🚀
-<p>Click <a href="https://alpha-beta-blog.netlify.app">https://alpha-beta-blog.netlify.app</a> to view the deployed site</p>
+<p>Click <a href="https://endearing-blancmange-0b81eb.netlify.app/">https://endearing-blancmange-0b81eb.netlify.app/</a> to view the deployed site</p>
 
 ## 👨‍💻 Features
 
